@@ -1,5 +1,5 @@
 
-Arch package for Kaspersky Endpoint Security for Linux (KESL) 12.2.0
+Arch package for Kaspersky Endpoint Security for Linux (KESL) 12.2.0-2412
 ```
 makepkg -si
 ```
