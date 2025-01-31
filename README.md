@@ -1,4 +1,7 @@
-# About
 
 Arch package for Kaspersky Endpoint Security for Linux (KESL)
 
+TODO:
+
+1) problem with custor repo update DB
+2) SUDO for ' sudo /opt/kaspersky/kesl/bin/kesl-setup.pl' after install program
