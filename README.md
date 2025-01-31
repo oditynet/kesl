@@ -1,5 +1,5 @@
 
-Arch package for Kaspersky Endpoint Security for Linux (KESL)
+Arch package for Kaspersky Endpoint Security for Linux (KESL) 12.2.0
 
 TODO:
 
