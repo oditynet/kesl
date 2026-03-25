@@ -27,7 +27,7 @@ source=( "https://products.s.kaspersky-labs.com/endpoints/keslinux10/${pkgver}/m
 sha256sums=('739bfbc9c9c19eec3d7d40fe1da06d18581278ecb0dd67d6aacfc96c50d884dd'
             'd410bbf8bf4c07a7b6144eadfce0290b2d632c725606a0f9a751b17ff9592cf4'
             'f392b85ec119f2c46b30c549f79994b5c45b9c866fb91b83db654cf5caa98fc1'
-            '86203f1dcd663763bc9c8d51a98e510523189c7e78a7fb293183095b89bfa6cf'
+            '1bc96326086609c55177c25a8b0e7ab5c5f0b36cc78f22df48a8c5d1adc05bcf'
             '29efcd166bb0fc5baa5a85dc0f41c6c2e253f6b8fd3ee723862496364281cb4c')
 #validpgpkeys=('6AFE173577C4CBD621DF217FD093435AA3ED2C4A')
 
